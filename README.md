@@ -10,6 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)]()
   
 # Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokho94)](https://github.com/seokho94/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokho94&layout=compact)](https://github.com/seokho94/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokho94)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokho94&layout=compact)](https://github.com/seokho94/github-readme-stats)
 
 </div>
